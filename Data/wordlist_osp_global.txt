@@ -140,6 +140,7 @@ Balakrishnan
 Balthasar
 Barbarash
 Bartkowski
+Barzaghi
 basolat
 basolatateral
 basolateral
@@ -249,6 +250,10 @@ calculatePKAnalyses
 callout
 Camu
 canadensis
+Carbamazepine
+carbamazepine
+Carbamazepine-10,11-epoxide
+carbamazepine-10,11-epoxide
 Cardiothorac
 cardiovascularly
 Carls
@@ -479,6 +484,9 @@ Enzymol
 Enzymology
 eosinophilia
 EP
+epoxide
+Epilepsia
+epilepsia
 eps
 epsfcn
 Epub
@@ -909,6 +917,7 @@ Lehr
 Leitersdorf
 Leitold
 Lemaire
+Leone
 Lepaul
 LEQ
 leukotriene
@@ -1012,6 +1021,7 @@ menue
 Merlé
 Mertzanis
 Merz
+Messenheimer
 Metab
 metabolization
 metabolizations
@@ -1068,6 +1078,7 @@ Molweight
 mongrale
 monodisperse
 mononuclear
+Monteleone
 Montelukast
 Mortier
 Moschitto
@@ -1378,6 +1389,8 @@ RHS
 RHSFormula
 ribonucleic
 Riecke
+Rifabutin
+rifabutin
 rifampicin
 rifampin
 Rifampin's
